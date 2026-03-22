@@ -40,7 +40,7 @@ A real-time computer vision application that transforms hand gestures captured v
 
 ```bash
 pip install opencv-python mediapipe pynput
-python gesture_wheel.py
+python steering.py
 ```
 
 Requires a working webcam. Run alongside any driving game that uses arrow key controls.
